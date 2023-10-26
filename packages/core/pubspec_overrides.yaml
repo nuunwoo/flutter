@@ -1,0 +1,18 @@
+# melos_managed_dependency_overrides: blocs,dependencies,models,pages,repository,utility,widget,screen
+dependency_overrides:
+  blocs:
+    path: ../blocs
+  dependencies:
+    path: ../dependencies
+  models:
+    path: ../models
+  pages:
+    path: ../pages
+  repository:
+    path: ../repository
+  screen:
+    path: ../screen
+  utility:
+    path: ../utility
+  widget:
+    path: ../widget

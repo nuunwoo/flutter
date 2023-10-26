@@ -1,0 +1,16 @@
+name: models
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dependencies:
+    path: ../dependencies
+
+  repository:
+    path: ../repository

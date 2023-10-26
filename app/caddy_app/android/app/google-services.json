@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485214740363",
+    "project_id": "flutter-caddyapp",
+    "storage_bucket": "flutter-caddyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485214740363:android:5d184ea8f9f37ff954198e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_caddy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipuVwdVVlJxoE3jMKsfCIc-gn6UrbbnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485214740363:android:7b24b8bcb7099fcc54198e",
+        "android_client_info": {
+          "package_name": "com.greenit.weasley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipuVwdVVlJxoE3jMKsfCIc-gn6UrbbnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

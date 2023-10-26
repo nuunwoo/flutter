@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.flutter_caddy_app-mergeDebugResources-14:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/weasley/flutter/caddy_app_weasley/app/caddy_app/android/app/src/main/res/values-night-v31/styles.xml",
+                    "from": {
+                        "startLines": "3,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,880",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "529,1044"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,416",
+                        "endLines": "7,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "411,580"
+                    }
+                }
+            ]
+        }
+    ]
+}

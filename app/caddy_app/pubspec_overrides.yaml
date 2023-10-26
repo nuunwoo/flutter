@@ -1,0 +1,2 @@
+# melos_managed_dependency_overrides: services,widget,blocs,core,dependencies,models,pages,repository,utility,screen
+{dependency_overrides: {blocs: {path: ../../packages/blocs}, core: {path: ../../packages/core}, dependencies: {path: ../../packages/dependencies}, models: {path: ../../packages/models}, pages: {path: ../../packages/pages}, repository: {path: ../../packages/repository}, screen: {path: ../../packages/screen}, utility: {path: ../../packages/utility}, widget: {path: ../../packages/widget}}}

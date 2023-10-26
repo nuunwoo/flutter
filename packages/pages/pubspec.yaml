@@ -1,0 +1,33 @@
+name: pages
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  blocs:
+    path: ../blocs
+
+  dependencies:
+    path: ../dependencies
+
+  repository:
+    path: ../repository
+
+  utility:
+    path: ../utility
+
+  widget:
+    path: ../widget
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - ../../assets/images/
+    - ../../assets/images/menu/
+    - ../../assets/images/title/
